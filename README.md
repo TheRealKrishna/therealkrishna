@@ -3,7 +3,7 @@
 <h3 align="center">A coding enthusiast 🚀 specializing in crafting captivating web experiences using the enchanting realms of React ⚛️, Node.js 🖥️, MongoDB 🍃, MySQL 🗄️, GraphQL 🌐, and Next.js 📦—the mighty MERN stack at my command. Dancing through the digital universe, I orchestrate pure magic ✨, weaving seamless UIs and efficient code. On my GitHub haven 🌟, the README isn't just a set of instructions—it's a journey into craftsmanship and creativity. Join me on this exhilarating coding escapade, where every line of code tells a tale of innovation and expertise! 🎉</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRealKrishna&label=Profile%20views&color=0e75b6&style=flat" alt="TheRealKrishna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheRealKrishna&theme=" alt="TheRealKrishna" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheRealKrishna&theme=" alt="TheRealKrishna" /></a> </p> -->
 
 - 🌱 I’m currently Pursuing **Master of Computer Application in Cloud Computing & Full Stack Development**
 
