@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at **https://krishna.lol/**
 - 📝 I regularly write articles on **https://gktech.uk/**
 - 📄 Know about my experiences **https://krishna.lol/download/resume.pdf**
-- ⚡ Fun fact **During a JavaScript 🧑🏻‍💻 project, my app unexpectedly started displaying cat pictures 🐱 instead of user profiles! 🙀 After some detective 🕵🏻 work, I uncovered the culprit my mischievous 😈 friend had swapped the API endpoints as a prank. It was a lighthearted reminder to stay alert during coding collaborations!😄**
+- ⚡ Fun fact **During a JavaScript 🧑🏻‍💻 project, my app unexpectedly started displaying cat pictures 🐱 instead of user profiles! 🙀 After some detective 🕵🏻 work, I uncovered the culprit 😈, my mischievous friend had swapped the API endpoints as a prank. It was a lighthearted reminder to stay alert during coding collaborations!😄**
 
 <div> <a href="https://twitter.com/TheRealKrishna_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/therealkrishna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
